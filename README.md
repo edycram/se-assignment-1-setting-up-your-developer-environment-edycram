@@ -52,3 +52,42 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+ASSIGNMENT RESPONSE:
+
+# Developer Environment Setup
+
+## Operating System
+- Installed Windows 10.
+
+## Text Editor / IDE
+- Installed Visual tudio Code from [VS Code](hSttps://code.visualstudio.com/Download).
+- Installed extensions: Python, GitLens, Prettier, ESLint.
+
+## Version Control System
+- Installed Git from [Git](https://git-scm.com/downloads).
+- Configured Git with user name and email.
+- Created a GitHub account and initialized a repository.
+
+## Programming Languages and Runtimes
+- Installed Python from [Python.org](https://www.python.org/downloads/).
+
+## Package Managers
+- Verified pip installation.
+
+## Database Configuration
+- Installed MySQL from [MySQL](https://dev.mysql.com/downloads/windows/installer/5.7.html).
+
+## Extensions and Plugins
+- Installed VS Code extensions for enhanced functionality.
+
+## Challenges and Solutions
+- Faced issues with moving the virtual environment folder. Resolved by adding the folder to `.gitignore`.
+- Used `deactivate` command to deactivate virtual environment.
+
+## GitHub Repository
+- [DjangoMayProject](https://github.com/edycram/DjangoMayProject.git)
+
+
